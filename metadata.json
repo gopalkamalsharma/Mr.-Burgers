@@ -1,0 +1,5 @@
+{
+  "name": "Mr Burgers Drinks",
+  "description": "A conversion-first fast-food and beverage website designed for bold flavors and quick service.",
+  "requestFramePermissions": ["geolocation"]
+}
